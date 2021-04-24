@@ -20,7 +20,7 @@ Software Design Document and coding samples for SNHU CS 230 Course
 ```
      For the overall document, I feel that there should've been more detailed investigation and feedback from the client before trying to list out what the Design Constraints are and what the overall solution would be. 
      The overall length of the software design document is very wordy and if I would present this to a client I would bullet a lot of the documentation in order to 
-     make the document more readable for the user, or break the document into more than one document.  I feel that the Evaluation table would be better represented if it had been given the details of the exact items that were needed, rather than an overall search to find the pro's and con's, which led to a lot more information shown than what is really needed. 
+     make the document more readable for the user, or break the document into more than one document.  I feel that the Evaluation table would be better represented if it had been given the details of the exact items that were needed, rather than an overall search to find the pro's and con's, which led to a lot more information shown than what may really be needed. 
      From working with product owners in the client capacity, the Domain model is often elaborated on and discussed as a separate entity. The Domain model is also
      extended to show diagrams of the overall system connectivity in a more visual manner and the client usually is involved with several meetings with this documentation and review. 
 ```
