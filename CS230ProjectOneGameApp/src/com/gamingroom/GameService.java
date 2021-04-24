@@ -72,7 +72,7 @@ public class GameService {
 	 * get the only object that is available of the Game Service Singleton class
 	 */
 
-	// adding feedback supposedly 'lazy' instantiation
+	// adding feedback 'lazy' instantiation
 	public static GameService getInstance() {
 		if (service == null) {
 			service = new GameService();
