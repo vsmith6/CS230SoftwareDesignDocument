@@ -3,7 +3,7 @@ Software Design Document and coding samples for SNHU CS 230 Course
 *********************************
 - Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 ```
-     The client was a fictional company called The Gaming Room.  The ask is a web application version of their fictional game, “Draw It Or Lose It”. The fictional game is currently only available on an Android application, and the client wished to extend the game into a web application in order for the game to be accessed by multiple clients.
+     The client was a fictional company called The Gaming Room.  The ask is a web application version of their fictional game, “Draw It Or Lose It”. The fictional game is currently only available on an Android application, and the client wished to extend the game into a web application in order for the game to be accessed by multiple clients. The client also specified a strong desire for security for the game, both in user authentication and authorization, as well as the security of the game data and application platform. 
 ```
 - What did you do particularly well in developing this documentation?
 ```
